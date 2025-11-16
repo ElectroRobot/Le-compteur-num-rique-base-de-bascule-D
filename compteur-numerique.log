@@ -1,0 +1,15 @@
+LTspice 24.1.7 for Windows
+Circuit: D:\electro-robot\outils\LTSpice\compteur numérique à base bascule D\compteur-numerique.net
+Start Time: Sun Nov 16 17:55:09 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.624 seconds.
+
+Files loaded:
+D:\electro-robot\outils\LTSpice\compteur numérique à base bascule D\compteur-numerique.net
+C:\Users\bkhro\Documents\LTspice\74HC.lib
+
